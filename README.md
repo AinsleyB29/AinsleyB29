@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋🏾, I'm Ainsley</h1>
-<h3 align="center">A software engineer based in Brooklyn, NY</h3>
+![MasterHead](https://raw.githubusercontent.com/AinsleyB29/AinsleyB29/7ab523549683d35070a86637462dc6d26792357a/header.png)
 
-
+<h3 align="center">A Software Engineer based in Brooklyn, NY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ainsleyb29&label=Profile%20views&color=0e75b6&style=flat" alt="ainsleyb29" /> </p>
 
@@ -26,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ainsleyb29&show_icons=true&locale=en&layout=compact" alt="ainsleyb29" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ainsleyb29&show_icons=true&locale=en" alt="ainsleyb29" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ainsleyb29&" alt="ainsleyb29" /></p>
