@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: <a href="mailto:abrundage95@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ainsleybrundage">LinkedIn</a>
 
-- ⚡ Fun fact: **I love watching TV shows and binged Part 1 of Money Heist in 1 day 😳.**
+- ⚡ Fun fact: **I love watching TV shows and binged Part 1 of Money Heist in 1 day 😳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
