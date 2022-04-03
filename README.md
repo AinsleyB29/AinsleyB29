@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ainsleybrundage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ainsleybrundage" height="30" width="40" /></a>
+ <a href="https://twitter.com/ainsleycodes" target="blank"><img align="center" src="https://img.icons8.com/clouds/200/000000/twitter-circled.png" alt="twitter-gif" height="30" width="40" /></a> 
  <a href="https://letterboxd.com/AinsleyB29/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="letterboxd-logo" height="30" width="40" /></a>
   
 </p>
