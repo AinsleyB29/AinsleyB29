@@ -19,10 +19,10 @@
  <a href="https://letterboxd.com/AinsleyB29/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="letterboxd-logo" height="30" width="40" /></a>
 
 <h3 align="left">Currently bumping:</h3>
-
 <div style="display": inline_block">
                                    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22kmt5fnbjwed2hzm6runeovi&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/AinsleyB29/spotify-github-profile) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22kmt5fnbjwed2hzm6runeovi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=22kmt5fnbjwed2hzm6runeovi&redirect=true)
+                                   
 </div>
   
 </p>
