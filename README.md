@@ -17,6 +17,13 @@
 <a href="https://linkedin.com/in/ainsleybrundage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ainsleybrundage" height="30" width="40" /></a>
  <a href="https://twitter.com/ainsleycodes" target="blank"><img align="center" src="https://img.icons8.com/clouds/200/000000/twitter-circled.png" alt="twitter-gif" height="30" width="40" /></a> 
  <a href="https://letterboxd.com/AinsleyB29/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="letterboxd-logo" height="30" width="40" /></a>
+
+<h3 align="left">Currently bumping:</h3>
+
+<div style="display": inline_block">
+                                   
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22kmt5fnbjwed2hzm6runeovi&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/AinsleyB29/spotify-github-profile) 
+</div>
   
 </p>
 
