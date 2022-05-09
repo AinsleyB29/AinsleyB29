@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: **My favorite restaurants & bars, my journey as a developer, must-see tv shows, & psychological thrillers**
 
-- 📫 How to reach me: <a href="mailto:abrundage95@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ainsleybrundage">LinkedIn</a> | <a href="https://drive.google.com/file/d/1938xqB8iUAM-76PJDlwXtMPZhbt5fsxP/view">Resume</a>
+- 📫 How to reach me: <a href="mailto:abrundage95@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ainsleybrundage">LinkedIn</a> | <a href="https://drive.google.com/file/d/1dDXyehPgC0bW0IaGMpIOu9eKOC9U3Z6a/view">Resume</a>
 
 - ⚡ Fun fact: **I love watching TV shows and binged Part 1 of Money Heist in 1 day 😳**
 
