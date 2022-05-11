@@ -4,7 +4,7 @@
 
 ![Visits Badge](https://badges.pufler.dev/visits/ainsleyb29/ainsleyb29)
 
-- 🌱 I’m currently learning: **Full-stack web development @General Assembly**
+- 🌱 I’m currently learning: **Full-stack web development**
 
 - 💬 Ask me about: **My favorite restaurants & bars, my journey as a developer, must-see tv shows, & psychological thrillers**
 
