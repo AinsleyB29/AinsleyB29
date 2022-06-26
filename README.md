@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact: **I love watching TV shows and binged Part 1 of Money Heist in 1 day 😳**
 
+- 📺: **My favorite series out rn are Severance & The Bear**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ainsleybrundage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ainsleybrundage" height="30" width="40" /></a>
