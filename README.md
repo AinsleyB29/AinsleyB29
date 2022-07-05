@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software Engineer based in Brooklyn, NY</h3>
 
-![Visits Badge](https://badges.pufler.dev/visits/ainsleyb29/ainsleyb29)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ainsleyb29)
 
 - 🌱 I’m currently learning: **Full-stack web development**
 
